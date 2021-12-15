@@ -4,4 +4,5 @@ Foi construído um pequeno projeto para aprender o manuseio das tecnologias.
 #### Tecnologia
 - Serverless
 - Node
-- Aws Lambda e S3
+- Aws Lambda
+- Aws S3
